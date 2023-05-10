@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+F:\БГУИР\1 КУРС\13. ОАиП\1_КУРСАЧ_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(117,17): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+F:\БГУИР\1 КУРС\13. ОАиП\1_КУРСАЧ_1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(151,31): warning C4101: search_time: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> F:\БГУИР\1 КУРС\13. ОАиП\1_КУРСАЧ_1\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
